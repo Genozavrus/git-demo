@@ -1,6 +1,6 @@
 import requests
 import time
-UKAAAAAAAAAAAAA
+
 # Токен вашего бота (полученный у BotFather)
 TOKEN = "7546021744:AAGVbEDe103wHvvLszrksQKbFwIzHv9K0mQ"
 URL = f"https://api.telegram.org/bot{TOKEN}/"
